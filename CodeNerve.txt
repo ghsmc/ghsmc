@@ -5,7 +5,6 @@
 <p>I'm a full-stack web-developer interested in using technology to promote political representation, transparency, and accountability. I build systems and websites aimed to bring us closer to this noble goal. This website is a platform for me to display my work. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <b>Currently</b><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I'm a sophomore at The Lawreneville School, a boarding school in New Jersey. I'm originally from New York City. The project I'm proudest of is <i>Stance</i> linked <a href="stanceproject.org">here.</a> If you'd like to read more about my projects, check out my <a>portfolio</a> below. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I'm a sophomore at The Lawrenceville School, a boarding school in New Jersey. I'm originally from New York City. I'm interested in diplomacy, politics, tech policy, and finance. The project I'm proudest of is <i>Stance</i> linked <a href="stanceproject.org">here.</a> If you'd like to read more about my projects, check out my <a>portfolio</a> below. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p><br> <span> <a href="link1">Portfolio &nbsp</a></span> <span><a href="link2">&nbsp Code it Forward &nbsp</a></span> <span><a href="link3">&nbsp Incongnito &nbsp</a> </span> <span><a href="link3">&nbsp Github</a> &nbsp  </span> <span><a href="link3">&nbsp Blog &nbsp</a> </span> <span><a href="link3">&nbsp Email Me &nbsp</a> </span></p>
-
+<p><span> <a href="link1">Portfolio &nbsp</a></span> <span><a href="link2">&nbsp Code it Forward &nbsp</a></span> <span><a href="link3">&nbsp Incongnito &nbsp</a> </span> <span><a href="link3">&nbsp Github</a> &nbsp  </span> <span><a href="link3">&nbsp Blog &nbsp</a> </span> <span><a href="link3">&nbsp Email Me &nbsp</a> </span></p>
