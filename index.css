@@ -8,7 +8,7 @@ body {
 
 #console {
 	font-family: courier, monospace;
-	color: #fff;
+	color: rgba(250, 250, 250, 0.918);
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
@@ -22,7 +22,7 @@ a {
 }
 
 #a {
-	color: #0f0;
+	color: rgb(0, 153, 255);
 }
 
 #c {
@@ -34,7 +34,7 @@ a {
 }
 
 #k {
-    	animation: change 1s;
+    
 }
 
 #op{
