@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# George's Personal Portfolio
+A clean, simplistic personal portfolio website to display my projects and passions. 
