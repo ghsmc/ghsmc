@@ -70,6 +70,7 @@ var Typer = {
     }
   },
 
+
   updLstChr: function () {
     var cont = this.content();
 
@@ -106,4 +107,5 @@ function t() {
   if (Typer.index > Typer.text.length) {
     clearInterval(timer);
   }
+}
 }
