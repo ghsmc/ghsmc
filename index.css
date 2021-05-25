@@ -40,6 +40,18 @@ a:hover {
 	color: #8bd5f8;
 }
 
+.title1portfolio {
+	color: #81D4FA;
+	font-size: 36px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	padding-top: 35px;
+}
+
+.captionportfolio {
+	font-size: 20px;
+	margin-bottom: 35px;
+}
+
 .title1 {
 
 	color: #81D4FA;
@@ -76,8 +88,9 @@ a:hover {
     
 }
 
-p {
+.p {
 	margin-bottom:35px;
+
 }
 
 #op{
@@ -92,4 +105,36 @@ p {
 
 .pl {
 	color:rgb(0, 153, 255);
+}
+
+.text-gray {
+	color: rgba(189, 189, 189, 0.877);
+}
+
+.projectdiv {
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	margin-bottom: 35px;
+}
+
+.projectexp {
+	margin-left: 25px;
+}
+
+.projectname {
+	margin-left: 5px;
+	font-size: 17px;
+}
+
+.arrow {
+	font-size: 50px;
+}
+
+.click {
+	float: right;
+	color:rgb(99, 189, 248);
+	font-weight: bold;
+	font-size: 15px;
+	margin-right: 3px;
 }
