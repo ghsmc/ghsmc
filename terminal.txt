@@ -1,2 +1,2 @@
 
-<p><span> <a href="portfolio.html">Portfolio &nbsp</a></span> <span><a href="https://codeitforward.org"">&nbsp Code it Forward &nbsp</a></span> <span><a href=""incognitoblog.org">&nbsp Incongnito &nbsp</a> </span> <span><a href="link3">&nbsp Github</a> &nbsp  </span> <span><a href="link3">&nbsp Blog &nbsp</a> </span> <span><a href="link3">&nbsp Email Me &nbsp</a> </span></p>
+<p><span> <a href="portfolio.html">Portfolio &nbsp</a></span> <span><a href="https://codeitforward.org"">&nbsp Code it Forward &nbsp</a></span> <span><a href=""incognitoblog.org">&nbsp Incongnito &nbsp</a> </span> <span><a href="link3">&nbsp Github</a> &nbsp  </span> <span><a href="blog.html">&nbsp Blog &nbsp</a> </span> <span><a href="link3">&nbsp Email Me &nbsp</a> </span></p>

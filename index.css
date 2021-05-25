@@ -84,9 +84,6 @@ a:hover {
 	color: #ff0096;
 }
 
-#k {
-    
-}
 
 .p {
 	margin-bottom:35px;
@@ -116,6 +113,7 @@ a:hover {
 	border-width: 1px;
 	padding: 5px;
 	margin-bottom: 35px;
+	padding-top: 10px;
 }
 
 .projectexp {
@@ -123,7 +121,7 @@ a:hover {
 }
 
 .projectname {
-	margin-left: 5px;
+	margin-left: 10px;
 	font-size: 17px;
 }
 
@@ -138,3 +136,4 @@ a:hover {
 	font-size: 15px;
 	margin-right: 3px;
 }
+
