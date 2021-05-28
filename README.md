@@ -1,2 +1,2 @@
-# George's Personal Portfolio
-A clean, simplistic personal portfolio website to display my work.
+# Hi there — I'm George.
+It's nice to meet you. I'm a young programmer and web developer from New York. 
