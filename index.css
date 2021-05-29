@@ -31,6 +31,18 @@ a {
 	text-decoration: none;
 }
 
+mark {
+	background-color: #0059ffc4;
+	color: rgba(245, 245, 245, 0.877);
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+.callnum {
+	text-align: center;
+	font-size: small;
+}
+
 a:hover {
 	color: #097fb6;
 	font-style: italic;
