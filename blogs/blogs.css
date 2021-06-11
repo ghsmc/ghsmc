@@ -30,6 +30,11 @@ body {
 	font-size:14px;
 }
 
+.floatedimg {
+	float: right;
+	padding: 1rem;
+}
+
 a {
 	color: #8bd5f8;
 	text-decoration: none;
