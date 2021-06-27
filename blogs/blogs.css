@@ -30,6 +30,10 @@ body {
 	font-size:14px;
 }
 
+.tobehidden {
+	display: none;
+}
+
 .floatedimg {
 	float: right;
 	padding: 1rem;
