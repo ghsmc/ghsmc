@@ -1,3 +1,4 @@
+
 var Typer = {
     text: '',
     accessCountimer: null,
@@ -109,26 +110,9 @@ function t() {
 }
 
 function inProgress() {
-    alert("Hey there!\ Thanks for your interest. This project is still in progress; eventually, you'll be able to check it out. Until then, you'll just have to wait!");
+    alert("Hey there! Thanks for your interest. This project is still in progress; eventually, you'll be able to check it out. Until then, you'll just have to wait!");
 }
 
-/* potential implementation to come
-
-function writeBlog() {
-   console.log("Alright, let's begin your blog.");
-
-   var blognumber = prompt("Blog num?");
-   var day = prompt("Enter day (ex. Friday)");
-   var date = prompt("Enter date (ex. May 28)");
-   var time = prompt("Enter time (ex. 11:45:13)");
-   var message = prompt("Enter message");
-   var finaltime = prompt("Enter final time (ex. 8:34:21)");
-
-   
-
-
-}
-*/ 
 
 
 
