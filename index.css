@@ -1,158 +1,55 @@
-:root {
-	background-color: #000 !important;
-}
-
 body {
-	background-color: #000
+	background-color: white;
 }
 
 .bodytext {
-	font-family: 'PT Mono', monospace;
-	color: rgba(250, 250, 250, 0.918);
+	font-family: 'Source Serif Pro', serif;
+	color: black;
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:100px;
-	font-size:14px;
+	font-size:21px;
+	margin-top: 50px;
 }
 
-#console2 {
-	font-family: 'PT Mono', Courier, monospace;
-	color: rgba(250, 250, 250, 0.918);
-	width:750px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:25px;
-	font-size:14px;
+h1 {
+	margin-bottom: 12;
 }
+
+p {
+	margin: 0;
+}
+
 
 a {
-	color: #8bd5f8;
 	text-decoration: none;
-}
-
-mark {
-	background-color: #0059ffc4;
-	color: rgba(245, 245, 245, 0.877);
-	font-weight: bold;
-	font-size: 1.2rem;
-}
-
-.callnum {
-	text-align: center;
-	font-size: small;
 }
 
 a:hover {
 	color: #097fb6;
-	font-style: italic;
+	cursor: pointer;
 }
 
-#a {
-	color: #8bd5f8;
+.titles {
+	color: #002487;
+	font-size: 32px;
+	font-family: 'Source Serif Pro', -apple-system, BlinkMacSystemFont, serif;
+	font-weight: 600;
 }
 
-.title1portfolio {
-	color: #81D4FA;
-	font-size: 36px;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	padding-top: 35px;
-}
-
-
-.captionportfolio {
-	font-size: 20px;
-	margin-bottom: 35px;
-}
-
-.title1 {
-
-	color: #81D4FA;
-	font-size: 18px;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	padding-top: 35px;
-}
-
-.bmargin {
-	margin-bottom: 35px;
-}
-
-.title2 {
-	color: #03A9F4;
-	font-size: 18px;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-.title3 {
-	color: #0277BD;
-	font-size: 18px;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-#c {
-	color: #0bc;
-}
-
-#b {
-	color: #ff0096;
-}
-
-
-.p {
-	margin-bottom:35px;
-
-}
-
-#op{
-    	color: #888888
-}
-
-@keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
-    	99% { color: black; }
-}
-
-.pl {
-	color:rgb(0, 153, 255);
-}
-
-.text-gray {
-	color: rgba(189, 189, 189, 0.877);
-}
-
-.projectdiv {
-	border-style: solid;
-	border-width: 1px;
-	padding: 5px;
-	margin-bottom: 35px;
-	padding-top: 10px;
-}
-
-.projectexp {
-	margin-left: 25px;
-	color: white;
-}
-
-.projectname {
-	margin-left: 10px;
-	font-size: 17px;
-	color: white;
-}
-
-.arrow {
-	font-size: 50px;
-}
-
-.click {
+#nav {
+	font-family: Cedarville Cursive;
+	font-size: 22px;
+	color: black;
+	max-width:750px;
+	margin-left:auto;
+	margin-right:auto;
 	float: right;
-	color:rgb(99, 189, 248);
-	font-weight: bold;
-	font-size: 15px;
-	margin-right: 3px;
+	
 }
 
-.float-right {
+#inner {
 	float: right;
 }
+
 
