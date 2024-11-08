@@ -22,10 +22,6 @@ p {
 }
 
 
-a {
-	text-decoration: none;
-}
-
 a:hover {
 	color: #097fb6;
 	cursor: pointer;
