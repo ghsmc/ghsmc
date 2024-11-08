@@ -18,6 +18,7 @@ h1 {
 
 p {
 	margin: 0;
+	font-size: 1rem;
 }
 
 
@@ -29,6 +30,14 @@ a:hover {
 	color: #097fb6;
 	cursor: pointer;
 }
+
+a {
+	color: #0643b5;
+	cursor: pointer;
+}
+
+
+
 
 .titles {
 	color: #002487;
