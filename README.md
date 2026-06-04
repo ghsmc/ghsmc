@@ -8,7 +8,7 @@ Building **[Milo Labs](https://milo.now)**
 
 - Building **[Milo Labs](https://milo.now)**, an applied AI company  
 - Researching **informational asymmetry** alongside **Professor Lauren Cohen** at **Harvard Business School**  
-- On a gap year from **Yale University**, studying **Computer Science & Economics ('27)**
+   **Yale University**, **Computer Science & Economics**
 
 
 
